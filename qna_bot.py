@@ -28,7 +28,7 @@ This chatbot is leveraging Google's Generative AI model Gemini-PRO. It processes
 
 ### Steps to follow
 Follow these simple steps to interact with the chatbot:
-1. **Create API Key**: To create your Gemini api key, click on https://aistudio.google.com/app/apikey link. & click on create new.
+1. **Create Google API Key**: To create your Gemini api key, click on https://aistudio.google.com/app/apikey link. & click on create new.
 
 2. **Upload Your Documents**: The system accepts multiple PDF files at once, analyzing the content to provide comprehensive insights.
 
